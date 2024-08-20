@@ -1,0 +1,17 @@
+Dokumentacja:
+
+Kod, stworzony przez https://start.spring.io i zmodyfikowany do aplikacji która otwiera strone na które jest działający kalkulator.
+
+src/main/java/com/example/kalkulator/Calculator.java                 --- Zdefiniowanie globalne zmiennych (gettery,settery)
+src/main/java/com/example/kalkulator/CalculatorController.java       --- Instrukcja w języku JAVA kalkulatora
+src/main/java/com/example/kalkulator/KalkulatorApplication.java      --- Plik uzywany przez Springa, wskazanie Spring co ma uruchomić
+
+src/main/resources/templates/calculator.html                         --- Plik html, szkielet działania strony, tutaj schemat kalkulatora
+
+src/test/java/com/example/kalkulator/KalkulatorApplicationTests/java --- Plik używany przez Springa, check czy wszystko jest bez błędu
+
+mvnm --- plik za pomocą którego możemy uruchomić stronę, Spring
+mvnm.cmd --- plis wierszu poleceń za pomocą któego możemy uruchomić stronę przez Spring
+
+
+https://github.com/Mxtuu/Wst/
